@@ -1,4 +1,4 @@
-div>.thumbnail{
+div > .thumbnail{
     padding:6px;
     height:200px;
     width:auto;
@@ -19,8 +19,6 @@ div>.thumbnail{
   .button{
       margin-top:-70px;
   }
-
-
 button{
     border-radius:8px; 
     border: 1.5px solid #134880;
@@ -28,7 +26,6 @@ button{
     display: block;
     cursor: pointer;
     background-color:white;
-
 }
 
 button:disabled,
@@ -36,14 +33,14 @@ button[disabled]{
   border: 1.5px solid #999999;
   background-color: white;
 }
-.text>h2{
+
+.text > h2{
     color:#134880;
     font-family:'Open Sans', sans-serif;
     font-weight:bolder;
     font-size:22px;
 }
-
-.text>p{
+.text > p{
     color:#97999A;
     font-family:'Open Sans', sans-serif;
     font-size:16px;
